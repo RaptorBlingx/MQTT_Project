@@ -4,7 +4,7 @@ const pool = new Pool({
   user: 'mqtt_user',
   host: 'localhost',
   database: 'mqtt',
-  password: 'raptorblingx',
+  password: 'Your_Password',
   port: 5432,
 });
 
